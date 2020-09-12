@@ -1,6 +1,6 @@
 title: vigilant adventure, no no no no no no
 
-theme: vigilant-adventure
+theme: arbit21/vigilant-adventure
 
 theme_config:
   back_home_text: "&larr; HOME" # customize text for homepage link in post layout
