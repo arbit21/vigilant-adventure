@@ -3,6 +3,6 @@ title: this is no adventure.
 layouts: home
 ---
 
-<h1>Just a quick check</h1>
+# Just a quick check
 
-<p>This is a wip.</p>
+This is a wip.
