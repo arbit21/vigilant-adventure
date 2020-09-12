@@ -7,5 +7,8 @@ layout: default
     <p>{{ site.description }}</p>
   {% endif %}
 </header>
+<section>
+  {{ content }}
+</section>
 
 {% include menu_item.html collection=site.data.menu.entries %}
