@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: vigilant adventure, no no no no no no
+
+theme: vigilant-adventure
+
+theme_config:
+  back_home_text: "&larr; HOME" # customize text for homepage link in post layout
+  date_format: "%m %d-th day of %m in %Y" # customize how date is formatted
+  show_description: false # show blog description in home page
